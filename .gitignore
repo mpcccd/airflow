@@ -1,0 +1,9 @@
+logs/
+Oracle/
+output/
+*.pid
+airflow.cfg
+airflow.db
+webserver_config.py
+*.cfg~
+unittests.cfg
